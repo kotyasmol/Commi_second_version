@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\komi\Debug\komi.exe
+C:\Users\User\source\repos\komi\Debug\komi.pdb

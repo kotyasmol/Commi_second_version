@@ -1,0 +1,30 @@
+﻿  Graph.cpp
+C:\Users\User\source\repos\komi\Graph.cpp(106,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\komi\Graph.cpp(109,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\komi\Graph.cpp(122,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\komi\Graph.cpp(123,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\komi\Graph.cpp(269,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\komi\Graph.cpp(290,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\komi\Graph.cpp(297,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\komi\Graph.cpp(326,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\User\source\repos\komi\Graph.cpp(327,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\komi\Graph.cpp(351,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\User\source\repos\komi\Graph.cpp(352,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\komi\Graph.cpp(377,34): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\User\source\repos\komi\Graph.cpp(377,21): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\User\source\repos\komi\Graph.cpp(378,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\komi\Graph.cpp(380,41): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\User\source\repos\komi\Graph.cpp(381,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\komi\Graph.cpp(405,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\User\source\repos\komi\Graph.cpp(406,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\komi\Graph.cpp(452,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\User\source\repos\komi\Graph.cpp(484,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\komi\Graph.cpp(485,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\komi\Graph.cpp(489,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\komi\Graph.cpp(490,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\komi\Graph.cpp(494,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\User\source\repos\komi\Graph.cpp(494,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\User\source\repos\komi\Graph.cpp(529,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\komi\Graph.cpp(530,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\komi\Graph.cpp(693,23): warning C4018: <: несоответствие типов со знаком и без знака
+  komi.vcxproj -> C:\Users\User\source\repos\komi\Debug\komi.exe
